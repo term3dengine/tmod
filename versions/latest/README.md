@@ -14,6 +14,7 @@ First version of tMod.
 - Added saving systems
 - Added settings
 - Added update systems
+- Added mod menu area to delete mods
 
 ### TMDK (Developer Tools)
 
